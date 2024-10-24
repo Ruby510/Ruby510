@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Ngoc (Ruby)<br><br>🔭 I’m currently working on Titan Rover Website<br>🌱 I’m currently learning React, Tableau<br>⚡ Fun fact: 
+I'm Ngoc (Ruby)<br><br>🔭 I’m currently working on Titan Rover Website<br>🌱 I’m currently learning AWS, Tableau<br>⚡ Fun fact: 
 
 
 ## 🌐 Socials:
